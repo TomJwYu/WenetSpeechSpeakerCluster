@@ -27,6 +27,9 @@ The speaker label is generated through the following steps:
 The utt2spk file can be downloaded via [Link](https://drive.google.com/file/d/1UaGuyT1wcKc5g9vRdfIBvLoDRcuOxBlX/view?usp=drive_link).
 
 # License 
-<!-- Copyright 2023 Tencent AI Lab -->
+Authorship: 
+Jianwei Yu, Hangting Chen, Shuai Wang
+
+Copyright 2023 Tencent AI Lab, Shenzhen Research Institute of Big data
 
 **License**: [Creative Commons Attribution 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).  
