@@ -23,8 +23,24 @@ The speaker label is generated through the following steps:
 * For each long utterance, applying spectral clustering to the speech segments to generate the speaker labels.
 
 
+# Details
+| Dataset|  Utterance num| Segment num| Speaker number |
+| :-----:| :----: | :----: | :----: |
+| Wenetspeech (ori) |0.06M |14.6M | - |
+| Wenetspeech (cluster) | 0.06M |11.9M | 0.23M |
+
+Note that, currently we **donot** apply speaker clustering across difference long utterance of wenetspeech. 
+
+
+
+
+
+
 # Download
 The utt2spk file can be downloaded via [Link](https://drive.google.com/file/d/1UaGuyT1wcKc5g9vRdfIBvLoDRcuOxBlX/view?usp=drive_link).
+
+# TODO
+* Automatic speaker label of Gigaspeech
 
 # License 
 Authorship: 
